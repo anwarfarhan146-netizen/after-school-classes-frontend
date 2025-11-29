@@ -7,3 +7,4 @@
 "- Search with backend API integration" 
 "- Multi-field sorting (subject, location, price, spaces)" 
 "- Responsive Bootstrap 5 design" 
+"- Checkout form with validation" 
