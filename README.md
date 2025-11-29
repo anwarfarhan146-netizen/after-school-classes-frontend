@@ -8,3 +8,4 @@
 "- Multi-field sorting (subject, location, price, spaces)" 
 "- Responsive Bootstrap 5 design" 
 "- Checkout form with validation" 
+"- Order confirmation modal" 
