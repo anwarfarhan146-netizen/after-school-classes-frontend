@@ -10,3 +10,4 @@
 "- Checkout form with validation" 
 "- Order confirmation modal" 
 "- Font Awesome icons integration" 
+"- Component-based architecture" 
