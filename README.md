@@ -4,3 +4,4 @@
 "- Lesson listing with v-for directive" 
 "- Shopping cart functionality" 
 "- Add to cart with space management" 
+"- Search with backend API integration" 
