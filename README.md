@@ -9,3 +9,4 @@
 "- Responsive Bootstrap 5 design" 
 "- Checkout form with validation" 
 "- Order confirmation modal" 
+"- Font Awesome icons integration" 
