@@ -517,6 +517,7 @@ export default {
   name: 'App',
   components: { LessonList },
   data() {
+    
     return {
       sortBy: 'subject',
       sortOrder: 'asc',
