@@ -49,6 +49,7 @@
         </div>
 
         <!-- Search and Sort Controls -->
+        // Handle live search input from user
         <div class="search-sort-controls mb-4">
           <div class="card">
             <div class="card-body">
