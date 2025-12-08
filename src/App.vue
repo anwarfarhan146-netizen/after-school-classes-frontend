@@ -733,7 +733,7 @@ export default {
   }
 };
 </script>
-
+// more styles
 <style scoped>
 .navbar-brand {
   font-size: 1.5rem;
