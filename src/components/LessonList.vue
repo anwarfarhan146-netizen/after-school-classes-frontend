@@ -1,3 +1,6 @@
+// Lesson card component - displays individual classes
+
+
 <template>
   <div class="row">
     <div 
@@ -107,6 +110,7 @@
       </div>
     </div>
   </div>
+  
 </template>
 
 <script>

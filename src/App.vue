@@ -49,6 +49,7 @@
         </div>
 
         <!-- Search and Sort Controls -->
+        // Handle live search input from user
         <div class="search-sort-controls mb-4">
           <div class="card">
             <div class="card-body">
@@ -506,6 +507,7 @@
   </div>
 </template>
 
+// Main Vue App component for CST3144 Coursework
 <script>
 import LessonList from './components/LessonList.vue';
 
@@ -516,6 +518,7 @@ export default {
   name: 'App',
   components: { LessonList },
   data() {
+    
     return {
       sortBy: 'subject',
       sortOrder: 'asc',
@@ -732,7 +735,7 @@ export default {
   }
 };
 </script>
-
+// more styles
 <style scoped>
 .navbar-brand {
   font-size: 1.5rem;
