@@ -506,6 +506,7 @@
   </div>
 </template>
 
+// Main Vue App component for CST3144 Coursework
 <script>
 import LessonList from './components/LessonList.vue';
 
