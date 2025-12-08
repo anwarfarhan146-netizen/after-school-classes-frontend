@@ -241,3 +241,7 @@
 .progress-bar.bg-secondary {
   background-color: #6c757d !important;
 }
+/* Slightly improved button rounding */
+button {
+  border-radius: 4px;
+}
