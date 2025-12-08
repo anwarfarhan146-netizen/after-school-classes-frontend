@@ -1,0 +1,25 @@
+{
+  "name": "after-school-classes-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "deploy:gh": "npm run build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "core-js": "^3.8.0",
+    "vue": "^3.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.0",
+    "@vue/cli-plugin-babel": "^5.0.0",
+    "@vue/cli-service": "^5.0.0",
+    "gh-pages": "^5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
